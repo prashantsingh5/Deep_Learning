@@ -1,1 +1,5 @@
 # Deep_Learning
+
+Deep learning is a subfield of machine learning that focuses on training artificial neural networks to perform tasks by learning from data. It is inspired by the structure and functioning of the human brain, where information is processed through interconnected layers of neurons. Deep learning models, often referred to as neural networks or deep neural networks, have the ability to automatically learn and extract hierarchical features from data, allowing them to perform complex tasks that were previously challenging for traditional machine learning algorithms.
+
+The "deep" in deep learning refers to the depth of the neural network, which consists of multiple layers of interconnected nodes or neurons. Each layer processes and transforms the data, and the layers are typically organized into an input layer, one or more hidden layers, and an output layer. These hidden layers enable the network to learn increasingly abstract and complex representations of the input data as it progresses through the layers.
