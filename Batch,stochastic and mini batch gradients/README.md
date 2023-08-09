@@ -1,4 +1,5 @@
-# Deep_Learning
+# Difference Between Batch Gradient, Stochastic Gradient, Mini Batch Gradient
+
 Batch Gradient Descent, Stochastic Gradient Descent, and Mini-Batch Gradient Descent are three variations of the gradient descent optimization algorithm used to train machine learning models, particularly in the context of deep learning. They differ in how they use training data and update model parameters during each iteration of the optimization process. Here's a breakdown of the differences:
 
 Batch Gradient Descent (BGD):
