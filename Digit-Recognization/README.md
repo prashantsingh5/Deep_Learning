@@ -22,7 +22,11 @@ You can create a simple user interface where users can draw or upload their own 
 Technologies Used:
 
 1Python: Programming language used for developing the neural network model.
+
 2TensorFlow: Deep learning frameworks for building and training neural networks.
+
 3NumPy: Library for numerical computations in Python.
+
 4Matplotlib: Library for visualizing data and results.
+
 5GitHub: Version control platform to host and share your project.
