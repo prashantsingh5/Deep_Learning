@@ -1,3 +1,15 @@
+# ⚠️ Archived Project
+
+This repository contains an earlier experiment / practice project.
+
+It is no longer maintained and is kept only for reference.
+
+---
+
+# Original Project Description
+
+<old README content here>
+
 # Deep_Learning
 
 Deep learning is a subfield of machine learning that focuses on training artificial neural networks to perform tasks by learning from data. It is inspired by the structure and functioning of the human brain, where information is processed through interconnected layers of neurons. Deep learning models, often referred to as neural networks or deep neural networks, have the ability to automatically learn and extract hierarchical features from data, allowing them to perform complex tasks that were previously challenging for traditional machine learning algorithms.
